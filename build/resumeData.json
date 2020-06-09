@@ -1,0 +1,149 @@
+{
+  "main": {
+    "name":"Shay Brennan-Kelly",
+    "pronouns": ["he","him"],
+    "occupation":"Senior Software Engineer",
+    "description":"Interests include cybersecurity, diversity and inclusion and generally using my skills to help others",
+    "image":"profiler.jpg",
+    "bio":["Currently working towards CompTIA Security+ and CompTIA Cloud+ certifications in my spare time.","Over the last 5 years I've worked on enterprise software with Typescript, JavaScript, Java, Python, React and Node. In this time I have worked directly with clients onsite, on exploratory co-creation projects and POCs as well as on product teams.",
+           "Having started my career in a project management team and then gravitated to engineering, I have experience in areas such as planning, business and process analysis, development, code reviews, testing and supporting live systems. The domains I've worked across include security, risk management, financial systems, blockchain solutions, project management and government systems. ",
+           "Studying part-time towards a MSc in Applied Cybersecurity (Level 9). Previous qualifications include a Higher Diploma in Financial Technology (Level 8) and BSc in Computer Science Software Engineering (Level 8)."],
+    "contactmessage":"I'm currently on the lookout for a Python or Typescript/JavaScript backend role, feel free to connect if you've something that'd suit.",
+    "email": "s.brennankelly@gmail.com",
+    "address":{
+      "city":"Dublin",
+      "state":"Ireland"
+    },
+    "website": "http://www.shay-beekay.com",
+    "resumedownload":"https://www.linkedin.com/in/shaybk/",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/shay_nanigans",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/shaybk/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com/shay_nanigans",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"TU Dublin - Blanchardstown",
+        "degree":"Masters Applied Cybersecurity",
+        "graduated":"Coming soon..",
+        "grade": "Pending",
+        "description":"Currently studying part-time (evenings) towards a MSc in Applied Cybersecurity. I just finished my 1st semester and am eagerly awaiting my results",
+        "skills":["Business Continuity Management","Disaster Recovery","Incident Response"," Cybercrime Malware","Static and Dynamic Analysis","Threat Hunting"]
+      },
+      {
+        "school":"National College of Ireland",
+        "degree":"Higher Diploma in Financial Technology",
+        "graduated":"November 2018",
+        "grade":"1st Class Honours",
+        "description":"Completed a night time conversation course in FinTech. My final project was a stock price analysis, modeling and prediction tool written in Python",
+        "skills":["Blockchain Technology","Cryptography","Cybersecurity","Data Governance","Digital Forensics and Auditing","Data Analytics, Statistics and Data Modelling","Economics","Machine Learning","Research Skills"," Smart Contracts"]
+      },
+      {
+        "school":"Maynooth University",
+        "degree":"BSc Computer Science Software Engineering",
+        "graduated":"September 2015",
+        "grade":"1st Class Honours",
+        "description":"Studied Psychology for a year before transferring to a pure computer science degree. My final year project was a house price analysis application written in Python, JavaScript and PHP.",
+        "skills":["Calculus","Communication and Presentation Skills","Cryptography","Data Analytics","Java","JavaScript","Machine Learning","Networking","Project Management","Python","Research Skills"]
+      }
+    ],
+    "work":[
+      {
+        "company":"Hubspot",
+        "title":"Software Engineer",
+        "years":"July 2019 - Present",
+        "description":"Aligned to Product and Engineering, I develop and enhance internal systems essential to HubSpot's Sales Org. The scope of this role includes planning and task estimation, grooming tickets, development, testing and documenting systems. A core aspect of this role involves the reviewing of development carried out by my team and quality-checking deliverables to ensure they match the specification.",
+        "skills":["Git","Jasmine","Java","JavaScript","React","Selenium", "SQL", "MySQL"]
+      },
+      {
+        "company":"Consensys",
+        "title":"Software Engineer",
+        "years":"August 2018 - June 2019",
+        "description":"Contributed to the development of POCs and production level development of distributed Blockchain based systems. The projects involved areas such as smart contracts, zero-trust systems, financial services and identity. The scope of this work included planning, requirements analysis, development, testing and documenting systems. A key part of my role was quality checking the work of and supporting the development of other engineers on my team.", 
+        "skills":["Git","JavaScript","Jest","React","Python","Web3", "Typescript", "Docker", "MongoDB"]
+      },
+      {
+        "company":"Accenture",
+        "title":"Software Engineer",
+        "years":"June 2017 - July 2018",
+        "description":"Transferred to a more engineering-focused role in The Dock. I supervised the work of and mentored more junior engineers within the various projects I was assigned. Project domains included risk management, identity and access management and security.",
+        "skills":["Git", "Python", "MongoDB", "Cassandra", "React", "Docker", "SQL", "No SQL"]
+      },
+      {
+        "company":"Accenture",
+        "title":"Technology Consultant | Software Engineer",
+        "years":"July 2015 - May 2017",
+        "description":"I started my career with Accenture Ireland's consulting practice assigned to the Revenue Commissioners. In this role I oversaw the development and enhancement of multiple Java/Angular projects. I lead and mentored a team of 4 junior developers and interns that came into the PMO department. I also implemented an overhaul of the knowledge and content management framework within the ICTL department.",
+        "skills":["JUnit","Git", "Java", "Selenium", "AngularJS", "Adobe Illustrator", "MySQL", "SQL"]
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"TypeScript",
+        "level":"70%"
+      },
+      {
+        "name":"Java",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Komgo",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"komgo.jpg",
+        "url":"http://www.komgo.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.shay-beekay.com"
+      },
+      {
+        "title":"Bank of Ireland Motor Insurance",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"boi.jpg",
+        "url":"http://www.boi.ie/motor"
+      }
+    ]
+  }
+}
